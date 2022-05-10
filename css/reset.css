@@ -9,7 +9,7 @@
     font-family: 'Inter', sans-serif;
 }
 
-img{
+img {
     max-width: 100%;
     display: block;
 }
@@ -18,13 +18,13 @@ html {
     font-size: 62.5%;
 }
 
-button{
+button {
     cursor: pointer;
 }
 
-.container{
+.container {
     width: 100%;
     max-width: 1246px;
     margin: 0 auto;
-    padding: 0px 15px; 
+    padding: 0px 15px;
 }
